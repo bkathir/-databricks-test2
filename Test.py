@@ -70,3 +70,7 @@
 
 # MAGIC %sh
 # MAGIC nc -zv mysql.hpc.biogen.com 3306
+
+# COMMAND ----------
+
+# test
